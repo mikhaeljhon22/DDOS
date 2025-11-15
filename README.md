@@ -6,4 +6,4 @@ go run .
 
 IM USE UDP FLOOD TECHNIQUE
 
-#triger jenkins
+#triger in jenkins
